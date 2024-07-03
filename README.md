@@ -1,2 +1,2 @@
-# Python-calculations
-# Solving simple tasks with different python modules
+### Python-calculations
+### Solving simple tasks with different python modules
